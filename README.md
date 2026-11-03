@@ -1,41 +1,44 @@
 <div align="center">
 
 <!-- ========================================================================
-     ANIMATED CYBER HEADER GIF (NAME & HUD TELEMETRY)
+     00 // HERO CYBER HUD BANNER (ANIMATED NAME & TELEMETRY)
      ======================================================================== -->
 <a href="https://tharundev.xyz" target="_blank">
   <img src="./assets/header_tharun_dev.gif" width="100%" alt="THARUN DEV M C // AI & ML ENGINEER" />
 </a>
 
 <!-- ========================================================================
-     ANIMATED TYPING INTRODUCTION (README TYPING SVG)
+     ANIMATED TYPING TRANSMISSION
      ======================================================================== -->
 <a href="https://tharundev.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=48&lines=%E2%96%B8+AI+%26+Machine+Learning+Engineer;%E2%96%B8+Building+Deterministic+Software+on+Probabilistic+Systems;%E2%96%B8+Microsoft+Azure+%26+Nutanix+Certified+Practitioner;%E2%96%B8+B.Tech+CSE+(AI+%26+ML)+%40+Chandigarh+University;%E2%96%B8+Engineering+Resilient+Python+Pipelines" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=820&height=48&lines=%E2%96%B8+AI+%26+Machine+Learning+Engineer;%E2%96%B8+Building+Deterministic+Software+on+Probabilistic+Systems;%E2%96%B8+Microsoft+Azure+%26+Nutanix+Certified+Practitioner;%E2%96%B8+B.Tech+CSE+(AI+%26+ML)+%40+Chandigarh+University;%E2%96%B8+Engineering+Resilient+Python+Pipelines" alt="Typing Introduction" />
 </a>
 
 <br/>
 
 <!-- ========================================================================
-     QUICK PROFILE BADGES (SHIELDS.IO - LIME & CHARCOAL PALETTE)
+     QUICK DISPATCH TELEMETRY DOCK
      ======================================================================== -->
 <p align="center">
   <a href="https://tharundev.xyz" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-tharundev.xyz-00FF66?style=for-the-badge&logo=googlechrome&logoColor=050807&labelColor=0D1117" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/tharundevmc/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-tharundevmc-00FF66?style=for-the-badge&logo=linkedin&logoColor=050807&labelColor=0D1117" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:tharundevmc@gmail.com">
     <img src="https://img.shields.io/badge/DIRECT_EMAIL-tharundevmc%40gmail.com-00FF66?style=for-the-badge&logo=gmail&logoColor=050807&labelColor=0D1117" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/tharundev-123">
     <img src="https://img.shields.io/badge/LOCATION-Kozhikode%2C%20India-00FF66?style=for-the-badge&logo=googlemaps&logoColor=050807&labelColor=0D1117" alt="Location" />
   </a>
 </p>
 
-<!-- Animated Cyber Pulse Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Terminal Beam" />
+<!-- Animated Cyber Pulse Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Terminal Line" />
 
 </div>
 
@@ -43,7 +46,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center" /> 01 // Architectural Profile & Principles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center" /> 01 // System Dossier & Operating Philosophy
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+BUILDING+DETERMINISTIC+SOFTWARE+ON+PROBABILISTIC+SYSTEMS;%2F%2F+AI+%26+ML+SYSTEMS+ARCHITECT+%7C+CHANDIGARH+UNIVERSITY;%2F%2F+KOZHIKODE%2C+INDIA+%5BIST+%2F+UTC%2B5%3A30%5D" alt="About Typing" />
 
@@ -52,84 +55,71 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
-      <p>I am an <b>Artificial Intelligence & Machine Learning Engineer</b> and Computer Science student pursuing my <b>B.Tech in Computer Science & Engineering (AI & ML)</b> at <b>Chandigarh University</b>, native to Kozhikode, Kerala, India.</p>
-      <p>My engineering methodology emphasizes disciplined software architecture over superficial demos. I build robust data pipelines in <b>Python</b>, explore cloud-native cognitive systems on <b>Microsoft Azure</b>, and deploy resilient multi-cloud infrastructure with <b>Nutanix</b>.</p>
+    <td width="60%" valign="top">
+      <p>I am an <b>Artificial Intelligence & Machine Learning Engineer</b> pursuing my <b>B.Tech in Computer Science & Engineering (AI & ML)</b> at <b>Chandigarh University</b>, native to Kozhikode, Kerala, India.</p>
+      <p>My methodology emphasizes disciplined software architecture over superficial demos. I build robust data pipelines in <b>Python</b>, explore cloud-native cognitive systems on <b>Microsoft Azure</b>, and deploy resilient multi-cloud infrastructure with <b>Nutanix</b>.</p>
       <p><b>Core Mission:</b> To design high-reliability AI platforms and scalable backend infrastructure that extract structured signal from ambiguous real-world data, translating complex models into tangible engineering outcomes.</p>
     </td>
-    <td width="38%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" alt="Developer Coding Animation" />
     </td>
   </tr>
 </table>
 
-### 🔬 Technical Dossier
+### 🔬 Architecture & Specification Metrics
 
-| Metric / Attribute | Specification |
+| Parameter | Specification & System Metrics |
 | :--- | :--- |
-| **Full Name** | **THARUN DEV M C** |
-| **Discipline** | B.Tech Computer Science & Engineering (Specialization in AI & ML) |
-| **Institution** | **Chandigarh University**, Punjab / UP, India |
-| **Academic Timeline** | 2025 – Present `[Undergraduate • Active Pursuit]` |
-| **Geographic Origin** | Kozhikode, Kerala, India `[IST / UTC+5:30]` |
-| **Core Architecture** | Python • Microsoft Azure Cloud • REST APIs • Machine Learning |
-| **Primary Accreditations** | Microsoft Certified (AZ-900, AI-900, DP-600) • Nutanix Certified (NCP-MCI 6, NCP-EUC 6, NCA 6) |
+| **Engineering Lead** | **THARUN DEV M C** |
+| **Academic Program** | B.Tech Computer Science & Engineering (AI & Machine Learning Specialization) |
+| **Academic Base** | **Chandigarh University**, Punjab / UP, India `[2025 – Present • Active Pursuit]` |
+| **Geographic Telemetry** | Kozhikode, Kerala, India `[IST / UTC+5:30]` |
+| **Core Architecture** | Python Systems • Microsoft Azure Cloud • RESTful APIs • ML Heuristics |
+| **Industrial Accreditations** | Microsoft Certified (AZ-900, AI-900, DP-600) • Nutanix Certified (NCP-MCI 6, NCP-EUC 6, NCA 6) |
 | **Current Availability** | Open for High-Impact Software Engineering & AI/ML Internships |
 
 <br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" align="center" /> 02 // Technical Skills & Architecture
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" align="center" /> 02 // Computational Arsenal & Proficiency Matrix
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+CORE+STACK%3A+PYTHON+%7C+AZURE+%7C+REST+%7C+DETERMINISTIC+INFRA;%2F%2F+MULTICLOUD+INFRASTRUCTURE+%7C+NUTANIX+MCI+%26+EUC;%2F%2F+DATA+STRUCTURES+%26+MACHINE+LEARNING+HEURISTICS" alt="Skills Typing" />
 
-```ascii
-[SYSTEM_ARCHITECTURE] ───► (PYTHON) ───► [AZURE COGNITIVE SERVICES] ───► (REPRODUCIBLE PRODUCTION)
-```
+<!-- Animated Interactive Skills Progress Matrix -->
+<div align="center">
+  <img src="./assets/skills_matrix.gif" width="100%" alt="Computational Proficiency Matrix" />
+</div>
 
+<br/>
+
+<!-- Interactive Technology Icon Matrix -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,azure,git,github,vscode,html,css,linux,bash,postman,markdown&perline=13&theme=dark" alt="Technical Stack Icons" />
 </div>
 
 <br/>
 
-### ⚡ Proficiency & Domain Mastery
-
-```ascii
-┌──────────────────────┬──────────────────────────────────────────┬────────┐
-│ DOMAIN               │ ARCHITECTURAL PROFICIENCY                │ STATUS │
-├──────────────────────┼──────────────────────────────────────────┼────────┤
-│ Python Architecture  │ [████████████████████████████████░░░░░░] │ 85%    │
-│ Microsoft Azure AI   │ [██████████████████████████████░░░░░░░░] │ 80%    │
-│ Multicloud (Nutanix) │ [██████████████████████████████████░░░░] │ 90%    │
-│ Algorithms & C++     │ [████████████████████████████░░░░░░░░░░] │ 75%    │
-│ RESTful Integrations │ [████████████████████████████████░░░░░░] │ 85%    │
-└──────────────────────┴──────────────────────────────────────────┴────────┘
-```
-
-<br/>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">💻 Programming Languages</h3>
+      <h3 align="left">💻 Programming Languages & Foundations</h3>
       <ul>
-        <li><b>Python</b> <code>[Primary • Intermediate • Systems Architecture]</code></li>
-        <li><b>C++</b> <code>[Algorithmic Heuristics & Data Structures]</code></li>
-        <li><b>C Language</b> <code>[Low-Level Systems & Memory Model]</code></li>
-        <li><b>SQL / Relational Schema</b> <code>[PostgreSQL / Lakehouse]</code></li>
-        <li><b>HTML5 & CSS3</b> <code>[Modern Responsive Brutalist UIs]</code></li>
+        <li><b>Python</b> <code>[85%]</code> <code>[Primary • Intermediate • Systems Architecture]</code></li>
+        <li><b>C++</b> <code>[75%]</code> <code>[Algorithmic Heuristics & Data Structures]</code></li>
+        <li><b>C Language</b> <code>[70%]</code> <code>[Low-Level Systems & Memory Model]</code></li>
+        <li><b>SQL / Schema</b> <code>[75%]</code> <code>[PostgreSQL / Lakehouse Relational Modeling]</code></li>
+        <li><b>HTML5 & CSS3</b> <code>[80%]</code> <code>[Modern Responsive Brutalist Interfaces]</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">☁️ Cloud & Cognitive Architecture</h3>
       <ul>
-        <li><b>Microsoft Azure Cloud</b> <code>[AZ-900 Certified]</code></li>
-        <li><b>Azure AI & Cognitive Services</b> <code>[AI-900 Certified]</code></li>
-        <li><b>Microsoft Fabric Analytics</b> <code>[DP-600 Certified]</code></li>
-        <li><b>Nutanix Multicloud Infrastructure</b> <code>[NCP-MCI 6 Certified]</code></li>
-        <li><b>Nutanix EUC & Automation</b> <code>[NCP-EUC 6 & NCA 6 Certified]</code></li>
+        <li><b>Nutanix Multicloud Infrastructure</b> <code>[90%]</code> <code>[NCP-MCI 6 Certified]</code></li>
+        <li><b>Microsoft Azure Cloud</b> <code>[85%]</code> <code>[AZ-900 Certified]</code></li>
+        <li><b>Azure AI & Cognitive Services</b> <code>[85%]</code> <code>[AI-900 Certified]</code></li>
+        <li><b>Nutanix EUC & Automation</b> <code>[85%]</code> <code>[NCP-EUC 6 & NCA 6 Certified]</code></li>
+        <li><b>Microsoft Fabric Analytics</b> <code>[80%]</code> <code>[DP-600 Certified]</code></li>
       </ul>
     </td>
   </tr>
@@ -137,21 +127,21 @@
     <td width="50%" valign="top">
       <h3 align="left">⚙️ Tooling, Workflows & DevOps</h3>
       <ul>
-        <li><b>Git & Version Control</b> <code>[Branching • Interactive Rebasing]</code></li>
-        <li><b>GitHub CI/CD & Actions</b> <code>[Automated Build / Deploy Pipelines]</code></li>
-        <li><b>VS Code</b> <code>[Primary Development Environment]</code></li>
-        <li><b>Linux & Bash Shell</b> <code>[CLI Automation & Scripting]</code></li>
-        <li><b>Postman</b> <code>[REST API Profiling & Contract Testing]</code></li>
-        <li><b>Jupyter Notebooks</b> <code>[Exploratory Data Analysis & ML]</code></li>
+        <li><b>Git & Version Control</b> <code>[85%]</code> <code>[Branching • Interactive Rebasing]</code></li>
+        <li><b>GitHub CI/CD & Actions</b> <code>[80%]</code> <code>[Automated Build / Deploy Pipelines]</code></li>
+        <li><b>VS Code</b> <code>[90%]</code> <code>[Primary Development Environment]</code></li>
+        <li><b>Linux & Bash Shell</b> <code>[75%]</code> <code>[CLI Automation & Scripting]</code></li>
+        <li><b>Postman</b> <code>[80%]</code> <code>[REST API Profiling & Contract Testing]</code></li>
+        <li><b>Jupyter Notebooks</b> <code>[85%]</code> <code>[Exploratory Data Analysis & ML]</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📐 Engineering Foundations</h3>
+      <h3 align="left">📐 Engineering Foundations & Horizons</h3>
       <ul>
-        <li><b>Data Structures & Algorithms</b> <code>[Academic & Applied Focus]</code></li>
-        <li><b>Machine Learning Heuristics</b> <code>[Predictive Modeling]</code></li>
-        <li><b>RESTful API Design</b> <code>[Structured Payloads & Microservices]</code></li>
-        <li><b>Software Engineering Lifecycle</b> <code>[Clean Architecture]</code></li>
+        <li><b>Data Structures & Algorithms</b> <code>[75%]</code> <code>[Academic & Applied Focus]</code></li>
+        <li><b>Machine Learning Heuristics</b> <code>[80%]</code> <code>[Predictive Modeling]</code></li>
+        <li><b>RESTful API Design</b> <code>[85%]</code> <code>[Structured Payloads & Microservices]</code></li>
+        <li><b>Software Engineering Lifecycle</b> <code>[85%]</code> <code>[Clean Architecture Standards]</code></li>
         <li><b>Active Horizons:</b> LLMs, Deep Learning, Hybrid Cloud Orchestration</li>
       </ul>
     </td>
@@ -162,15 +152,215 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" /> 03 // Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" /> 03 // The Engineering Pipeline · End-to-End Workflow
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+AZURE+DOCUMENT+INTELLIGENCE+UI+%5BLIVE+DEPLOYED%5D;%2F%2F+DIGITAL+HEALTHCARE+BMI+%26+DIET+PLANNER+%5BPYTHON%5D;%2F%2F+BRIGHTLOOP+ENTERPRISE+SUBSCRIPTION+BILLING" alt="Projects Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+REPRODUCIBLE+ENGINEERING+PIPELINE+%5B6+STAGES%5D;%2F%2F+HEURISTICS+%E2%9E%94+PERSISTENCE+%E2%9E%94+VISION+%E2%9E%94+PREDICTION;%2F%2F+AGENT+AUDIT+%E2%9E%94+ENTERPRISE+CLOUD+DEPLOYMENT" alt="Projects Workflow Typing" />
 
-### 01/ [Azure Document Intelligence UI](https://github.com/tharundev-123/azure-doc-analyzer)
-> **Cognitive OCR & Structured Schema Extraction Pipeline**  
-> An end-to-end cloud interface orchestrating Microsoft Azure Cognitive Services to extract structured tabular schemas and key-value records from unstructured document assets.
+<!-- ========================================================================
+     ANIMATED WORKFLOW FLOWCHART DIAGRAM
+     ======================================================================== -->
+<div align="center">
+  <img src="./assets/workflow_pipeline.gif" width="100%" alt="Engineering Workflow Pipeline Diagram" />
+</div>
 
-<!-- Animated Interactive Project Showcase -->
+<br/>
+
+Every project below corresponds to a critical phase in the end-to-end software and AI engineering lifecycle—demonstrating progression from initial mathematical heuristics to enterprise cloud production:
+
+```ascii
+[01 HEURISTICS] ──► [02 PERSISTENCE] ──► [03 COGNITIVE AI] ──► [04 PREDICTIVE ML] ──► [05 AUDIT AGENTS] ──► [06 PRODUCTION DEPLOYMENT]
+```
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 01: HEURISTICS
+     ======================================================================== -->
+### ⬡ STAGE 01 // PROBLEM DISCOVERY & BIOMETRIC HEURISTICS
+#### [Digital Healthcare BMI & Diet Planner](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76) `[Nimbus Project 76]`
+> **Formulation of mathematical heuristics and dynamic macronutrient synthesis rules.**
+
+<!-- Animated UI Showcase -->
+<div align="center">
+  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76" target="_blank">
+    <img src="./assets/project_bmi_planner.gif" width="100%" alt="Digital Healthcare BMI & Diet Planner Demonstration" />
+  </a>
+</div>
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+python+bmi_planner.py+--height+180+--weight+74;%E2%96%B8+BMI%3A+22.84+%5BNormal%5D+%7C+Computing+Macronutrients...;%E2%96%B8+Synthesized+2450+kcal%3A+35%25+Protein%2C+45%25+Carbs" alt="BMI Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00FF66?style=flat-square&logo=python&logoColor=050807&labelColor=0D1117" alt="Status" />
+  </a>
+  <img src="https://img.shields.io/badge/MODULE-HEURISTIC_MATRIX-00FF66?style=flat-square&logo=dependabot&logoColor=050807&labelColor=0D1117" alt="Heuristics" />
+  <img src="https://img.shields.io/badge/STAGE-01_FORMULATION-00FF66?style=flat-square&logo=target&logoColor=050807&labelColor=0D1117" alt="Stage 01" />
+</p>
+
+* **Lifecycle Purpose:** Establishes data ingestion rules, custom biometric classification matrices, and metabolic distribution formulas that translate raw human measurements into structured nutritional diets.
+* **Architecture:** Core Python calculation engine with offline feedback loops and deterministic macronutrient matrices.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
+
+<details>
+<summary><b>🔍 View Stage 01 Biometric Flow</b></summary>
+
+```ascii
+[Biometric Inputs: Height/Weight] ──► [Metabolic Engine] ──► [Nutrient Ratio Matrix] ──► [Dynamic Diet Blueprint]
+```
+</details>
+
+<!-- Workflow Transition Connector -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Workflow Advancing" />
+  <br/>
+  <sub><b>▼ STAGE 01 (HEURISTICS) ──► ADVANCING TO RELATIONAL TRANSACTION PERSISTENCE ──► STAGE 02 ▼</b></sub>
+</div>
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 02: PERSISTENCE
+     ======================================================================== -->
+### ⬡ STAGE 02 // FULL-STACK ARCHITECTURE & FINANCIAL PERSISTENCE
+#### [BrightLoop Subscription Manager](https://github.com/tharundev-123/brightloop-subscription-manager) `[Full-Stack SaaS Platform]`
+> **Engineering relational transaction ledgers, tier modeling, and automated invoice rendering.**
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+brightloop-billing+--generate-invoice+--client+acme_corp;%E2%96%B8+Reconciling+subscription+tier+discounts+%2B+tax+ledger...;%E2%96%B8+Invoice+%23INV-2026-892+rendered+and+dispatched+successfully" alt="BrightLoop Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/brightloop-subscription-manager">
+    <img src="https://img.shields.io/badge/ARCH-FULL_STACK-00FF66?style=flat-square&logo=react&logoColor=050807&labelColor=0D1117" alt="Stack" />
+  </a>
+  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-00FF66?style=flat-square&logo=postgresql&logoColor=050807&labelColor=0D1117" alt="Database" />
+  <img src="https://img.shields.io/badge/STAGE-02_PERSISTENCE-00FF66?style=flat-square&logo=serverfault&logoColor=050807&labelColor=0D1117" alt="Stage 02" />
+</p>
+
+* **Lifecycle Purpose:** Scales simple business logic into production-grade multi-tier SaaS billing, quote lifecycles, automated PDF generation, and ACID-compliant relational persistence.
+* **Architecture:** React + TypeScript client communicating with Node.js REST services and PostgreSQL relational schemas.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/brightloop-subscription-manager)
+
+<!-- Workflow Transition Connector -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Workflow Advancing" />
+  <br/>
+  <sub><b>▼ STAGE 02 (PERSISTENCE) ──► ADVANCING TO DISTRIBUTED COGNITIVE INFERENCE ──► STAGE 03 ▼</b></sub>
+</div>
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 03: VISION AI
+     ======================================================================== -->
+### ⬡ STAGE 03 // COMPUTER VISION & COGNITIVE INFERENCE
+#### [FaceVision Azure](https://github.com/tharundev-123/facevision-azure) `[Cognitive Vision System]`
+> **Real-time video stream ingestion and probabilistic landmark topology mapping.**
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+facevision-stream+--device+%2Fdev%2Fvideo0+--engine+azure-face;%E2%96%B8+Facial+Landmarks+Detected%3A+82+Points+%5BLatency%3A+38ms%5D;%E2%96%B8+Emotion+Probability+Vector%3A+Confidence+98.7%25" alt="FaceVision Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/facevision-azure">
+    <img src="https://img.shields.io/badge/ENGINE-AZURE_COGNITIVE-00FF66?style=flat-square&logo=microsoftazure&logoColor=050807&labelColor=0D1117" alt="Azure Face" />
+  </a>
+  <img src="https://img.shields.io/badge/MODE-REALTIME_STREAM-00FF66?style=flat-square&logo=opencv&logoColor=050807&labelColor=0D1117" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/STAGE-03_COGNITIVE_AI-00FF66?style=flat-square&logo=fastapi&logoColor=050807&labelColor=0D1117" alt="Stage 03" />
+</p>
+
+* **Lifecycle Purpose:** Integrates pre-trained cloud cognitive intelligence into edge visual feeds, generating low-latency biometric coordinate vectors and facial attribute telemetry.
+* **Architecture:** Microsoft Azure Cognitive Face APIs, Python integration layer, OpenCV video capture, and browser visualizer.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/facevision-azure)
+
+<!-- Workflow Transition Connector -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Workflow Advancing" />
+  <br/>
+  <sub><b>▼ STAGE 03 (COGNITIVE AI) ──► ADVANCING TO TIME-SERIES PREDICTIVE MODELING ──► STAGE 04 ▼</b></sub>
+</div>
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 04: PREDICTIVE ML
+     ======================================================================== -->
+### ⬡ STAGE 04 // TIME-SERIES FORECASTING & PREDICTIVE MODELING
+#### [GlucoTwin AI](https://github.com/tharundev-123/GlucoTwin_AI) `[Predictive Health Prototype]`
+> **Evaluating continuous patient monitoring telemetry to anticipate volatile glycemic curves.**
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+glucotwin-predict+--patient-telemetry+timeseries.csv;%E2%96%B8+Evaluating+continuous+glucose+monitoring+(CGM)+curves...;%E2%96%B8+Early+Spike+Alert%3A+%2B45+mg%2FdL+anticipated+in+T%2B20min" alt="GlucoTwin Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/GlucoTwin_AI">
+    <img src="https://img.shields.io/badge/DOMAIN-PREDICTIVE_ML-00FF66?style=flat-square&logo=tensorflow&logoColor=050807&labelColor=0D1117" alt="Predictive" />
+  </a>
+  <img src="https://img.shields.io/badge/DATA-TIMESERIES_CGM-00FF66?style=flat-square&logo=pandas&logoColor=050807&labelColor=0D1117" alt="Timeseries" />
+  <img src="https://img.shields.io/badge/STAGE-04_PREDICTIVE-00FF66?style=flat-square&logo=scikitlearn&logoColor=050807&labelColor=0D1117" alt="Stage 04" />
+</p>
+
+* **Lifecycle Purpose:** Transitions from reactive processing to proactive temporal prediction—analyzing time-series telemetry streams to predict physiological spikes before they materialize.
+* **Architecture:** TypeScript algorithms simulating continuous glucose monitoring (CGM) streams paired with predictive regression heuristics.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/GlucoTwin_AI)
+
+<!-- Workflow Transition Connector -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Workflow Advancing" />
+  <br/>
+  <sub><b>▼ STAGE 04 (PREDICTIVE ML) ──► ADVANCING TO AUTONOMOUS AGENT AUDITING ──► STAGE 05 ▼</b></sub>
+</div>
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 05: AGENT AUDIT
+     ======================================================================== -->
+### ⬡ STAGE 05 // AUTONOMOUS AGENT ORCHESTRATION & COMPLIANCE VERIFICATION
+#### [Ghost Data Deletion Audit Agent](https://github.com/tharundev-123/ghost-data-deletion-audit-agent) `[HackerRank Orchestrate]`
+> **Autonomous verification demonstrating mathematical proof of personal data eradication.**
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+audit-agent+verify-purge+--user-id+usr_98124;%E2%96%B8+Auditing+PostgreSQL+shards%2C+Kafka+logs%2C+S3+backups...;%E2%96%B8+Proof+of+Eradication+Generated+%5BGDPR+%2F+CCPA+Compliant%5D" alt="Audit Agent Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/ghost-data-deletion-audit-agent">
+    <img src="https://img.shields.io/badge/AGENT-AUTONOMOUS_AUDIT-00FF66?style=flat-square&logo=substack&logoColor=050807&labelColor=0D1117" alt="Audit" />
+  </a>
+  <img src="https://img.shields.io/badge/COMPLIANCE-GDPR_CCPA-00FF66?style=flat-square&logo=securityscorecard&logoColor=050807&labelColor=0D1117" alt="Compliance" />
+  <img src="https://img.shields.io/badge/STAGE-05_AGENT_AUDIT-00FF66?style=flat-square&logo=auth0&logoColor=050807&labelColor=0D1117" alt="Stage 05" />
+</p>
+
+* **Lifecycle Purpose:** Implements autonomous agentic governance—verifying that user data deletion commands cascade completely across all cold backups, replica databases, and event buses.
+* **Architecture:** Python agent engine generating cryptographic audit trails across distributed databases and long-term storage silos.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
+
+<!-- Workflow Transition Connector -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="70%" alt="Workflow Advancing" />
+  <br/>
+  <sub><b>▼ STAGE 05 (AGENT AUDIT) ──► ADVANCING TO ENTERPRISE CLOUD DEPLOYMENT ──► STAGE 06 ▼</b></sub>
+</div>
+
+<br/>
+
+<!-- ========================================================================
+     STAGE 06: PRODUCTION DEPLOYMENT
+     ======================================================================== -->
+### ⬡ STAGE 06 // ENTERPRISE CLOUD ORCHESTRATION & PRODUCTION DEPLOYMENT
+#### [Azure Document Intelligence UI](https://github.com/tharundev-123/azure-doc-analyzer) `[Live Enterprise Web Interface]`
+> **Production-grade cloud cognitive pipeline orchestrating Azure Document AI with interactive web clients.**
+
+<!-- Animated UI Showcase -->
 <div align="center">
   <a href="https://tharundev-123.github.io/azure-doc-analyzer/" target="_blank">
     <img src="./assets/project_azure_doc.gif" width="100%" alt="Azure Document Intelligence UI Demonstration" />
@@ -190,15 +380,15 @@
     <img src="https://img.shields.io/badge/DEMO-LAUNCH_SYSTEM-00FF66?style=flat-square&logo=googlechrome&logoColor=050807&labelColor=0D1117" alt="Demo" />
   </a>
   <img src="https://img.shields.io/badge/ENGINE-AZURE_DOCUMENT_AI-00FF66?style=flat-square&logo=microsoftazure&logoColor=050807&labelColor=0D1117" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/STAGE-06_PRODUCTION-00FF66?style=flat-square&logo=vercel&logoColor=050807&labelColor=0D1117" alt="Stage 06" />
 </p>
 
-- **Problem & Context:** Manual document auditing for invoices, receipts, and tax forms is labor-intensive and error-prone. Raw OCR tools frequently lose cell relationships and semantic entity pairings.
-- **Key Contribution:** Designed the API integration layer interfacing with Microsoft Azure Cognitive Document Intelligence REST endpoints. Implemented parsing logic in Python to organize extracted text bounding boxes, table rows, and key-value confidence scores for web presentation.
-- **Tech Stack:** `Microsoft Azure` `Document AI API` `Python REST` `GitHub Pages`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/azure-doc-analyzer) • [Launch Live Demo](https://tharundev-123.github.io/azure-doc-analyzer/)
+* **Lifecycle Purpose:** Complete production deployment—orchestrating cloud document OCR, tabular schema recognition, confidence scoring, and automated web publishing via GitHub Pages.
+* **Architecture:** Microsoft Azure Cognitive REST APIs, Python parsing microservice, client-side UI, and zero-downtime GitHub Pages static hosting.
+* **Artifacts & Verification:** [Inspect Source Code](https://github.com/tharundev-123/azure-doc-analyzer) • [Launch Live Demo](https://tharundev-123.github.io/azure-doc-analyzer/)
 
 <details>
-<summary><b>🔍 View Architectural Pipeline</b></summary>
+<summary><b>🔍 View Production Pipeline</b></summary>
 
 ```ascii
 [PDF / Image Asset] ──► [Azure Document AI Engine] ──► [Key-Value & Table Parser] ──► [Structured UI Grid]
@@ -206,167 +396,22 @@
 </details>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Pipeline Complete" />
+  <br/>
+  <sub><b>✔ COMPLETE REPRODUCIBLE LIFECYCLE: FROM MATHEMATICAL HEURISTIC TO CLOUD PRODUCTION ✔</b></sub>
 </div>
-
-<br/>
-
-### 02/ [Digital Healthcare BMI & Diet Planner](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
-> **Biometric Categorization & Dynamic Nutritional Prescription Engine**  
-> An intelligent healthcare computational tool combining biometric categorization algorithms with dynamic nutritional prescription synthesis (Project 76).
-
-<!-- Animated Interactive Project Showcase -->
-<div align="center">
-  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76" target="_blank">
-    <img src="./assets/project_bmi_planner.gif" width="100%" alt="Digital Healthcare BMI & Diet Planner Demonstration" />
-  </a>
-</div>
-
-<!-- Animated CLI Execution Stream -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+python+bmi_planner.py+--height+180+--weight+74;%E2%96%B8+BMI%3A+22.84+%5BNormal%5D+%7C+Computing+Macronutrients...;%E2%96%B8+Synthesized+2450+kcal%3A+35%25+Protein%2C+45%25+Carbs" alt="BMI Terminal" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00FF66?style=flat-square&logo=python&logoColor=050807&labelColor=0D1117" alt="Status" />
-  </a>
-  <img src="https://img.shields.io/badge/MODULE-HEURISTIC_MATRIX-00FF66?style=flat-square&logo=dependabot&logoColor=050807&labelColor=0D1117" alt="Heuristics" />
-</p>
-
-- **Problem & Context:** Standard health calculators provide static BMI numbers without actionable algorithmic dietary frameworks tailored to individual metabolic goals.
-- **Key Contribution:** Engineered the core calculation logic in Python, implementing custom categorization algorithms and rule-based nutritional matrices that dynamically compute macronutrient distributions.
-- **Tech Stack:** `Python` `ML Heuristics` `HTML5/CSS3` `Data Analytics`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
-
-<details>
-<summary><b>🔍 View Biometric Heuristic Flow</b></summary>
-
-```ascii
-[Biometric Inputs] ──► [Metabolic Calculation Engine] ──► [Nutrient Ratio Matrix] ──► [Dynamic Diet Blueprint]
-```
-</details>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-### 03/ [BrightLoop Subscription Manager](https://github.com/tharundev-123/brightloop-subscription-manager)
-> **Full-Stack Enterprise Subscription Billing & Finance Dashboard**  
-> Comprehensive subscription management platform featuring tier modeling, quotation lifecycles, automated invoice generation, and financial accounting views.
-
-<!-- Animated CLI Execution Stream -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+brightloop-billing+--generate-invoice+--client+acme_corp;%E2%96%B8+Reconciling+subscription+tier+discounts+%2B+tax+ledger...;%E2%96%B8+Invoice+%23INV-2026-892+rendered+and+dispatched+successfully" alt="BrightLoop Terminal" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/tharundev-123/brightloop-subscription-manager">
-    <img src="https://img.shields.io/badge/ARCH-FULL_STACK-00FF66?style=flat-square&logo=react&logoColor=050807&labelColor=0D1117" alt="Stack" />
-  </a>
-  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-00FF66?style=flat-square&logo=postgresql&logoColor=050807&labelColor=0D1117" alt="Database" />
-  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-00FF66?style=flat-square&logo=typescript&logoColor=050807&labelColor=0D1117" alt="TypeScript" />
-</p>
-
-- **Problem & Context:** SaaS businesses encounter billing leakages when subscription plans, custom quotes, discount structures, and ledger entries operate in isolated tools.
-- **Key Contribution:** Developed a responsive full-stack platform managing subscription plans, quote-to-invoice workflows, automated tax/discount calculations, and relational transaction persistence.
-- **Tech Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/brightloop-subscription-manager)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-### 04/ [FaceVision Azure](https://github.com/tharundev-123/facevision-azure)
-> **Cognitive Biometric Face Detection & Attribute Analysis**  
-> Human face detection and visual attribute inspection system utilizing Microsoft Azure Cognitive Face APIs.
-
-<!-- Animated CLI Execution Stream -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+facevision-stream+--device+%2Fdev%2Fvideo0+--engine+azure-face;%E2%96%B8+Facial+Landmarks+Detected%3A+82+Points+%5BLatency%3A+38ms%5D;%E2%96%B8+Emotion+Probability+Vector%3A+Confidence+98.7%25" alt="FaceVision Terminal" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/tharundev-123/facevision-azure">
-    <img src="https://img.shields.io/badge/ENGINE-AZURE_COGNITIVE-00FF66?style=flat-square&logo=microsoftazure&logoColor=050807&labelColor=0D1117" alt="Azure Face" />
-  </a>
-  <img src="https://img.shields.io/badge/MODE-REALTIME_STREAM-00FF66?style=flat-square&logo=opencv&logoColor=050807&labelColor=0D1117" alt="OpenCV" />
-</p>
-
-- **Problem & Context:** Automated visual recognition pipelines require precise landmark localization, facial posture detection, and low-latency feature extraction.
-- **Key Contribution:** Implemented client-to-cloud integration with Azure Cognitive Services, parsing visual stream inputs and rendering bounding coordinates with attribute analytics.
-- **Tech Stack:** `Microsoft Azure` `Cognitive Services Face API` `Python` `Web UI`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/facevision-azure)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-### 05/ [GlucoTwin AI](https://github.com/tharundev-123/GlucoTwin_AI)
-> **Predictive Glycemic Spike Forecasting Prototype**  
-> Machine learning driven health intelligence engine predicting glucose fluctuations using historical patient records and simulated continuous glucose monitor telemetry.
-
-<!-- Animated CLI Execution Stream -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+glucotwin-predict+--patient-telemetry+timeseries.csv;%E2%96%B8+Evaluating+continuous+glucose+monitoring+(CGM)+curves...;%E2%96%B8+Early+Spike+Alert%3A+%2B45+mg%2FdL+anticipated+in+T%2B20min" alt="GlucoTwin Terminal" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/tharundev-123/GlucoTwin_AI">
-    <img src="https://img.shields.io/badge/DOMAIN-PREDICTIVE_ML-00FF66?style=flat-square&logo=tensorflow&logoColor=050807&labelColor=0D1117" alt="Predictive" />
-  </a>
-  <img src="https://img.shields.io/badge/DATA-TIMESERIES_CGM-00FF66?style=flat-square&logo=pandas&logoColor=050807&labelColor=0D1117" alt="Timeseries" />
-</p>
-
-- **Problem & Context:** Latency in anticipating postprandial glucose surges poses immediate risks for diabetic patients requiring preemptive insulin adjustments.
-- **Key Contribution:** Engineered predictive models analyzing time-series glucose curves and nutritional inputs to identify metabolic spike indicators.
-- **Tech Stack:** `TypeScript` `Machine Learning Heuristics` `Predictive Analytics`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/GlucoTwin_AI)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
-### 06/ [Ghost Data Deletion Audit Agent](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
-> **AI-Powered Autonomous Deletion & Right-to-be-Forgotten Compliance Auditor**  
-> Autonomous compliance audit agent built for HackerRank Orchestrate that proves whether user personal data is truly purged across databases, logs, backups, and replication streams.
-
-<!-- Animated CLI Execution Stream -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+audit-agent+verify-purge+--user-id+usr_98124;%E2%96%B8+Auditing+PostgreSQL+shards%2C+Kafka+logs%2C+S3+backups...;%E2%96%B8+Proof+of+Eradication+Generated+%5BGDPR+%2F+CCPA+Compliant%5D" alt="Audit Agent Terminal" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/tharundev-123/ghost-data-deletion-audit-agent">
-    <img src="https://img.shields.io/badge/AGENT-AUTONOMOUS_AUDIT-00FF66?style=flat-square&logo=substack&logoColor=050807&labelColor=0D1117" alt="Audit" />
-  </a>
-  <img src="https://img.shields.io/badge/COMPLIANCE-GDPR_CCPA-00FF66?style=flat-square&logo=securityscorecard&logoColor=050807&labelColor=0D1117" alt="Compliance" />
-</p>
-
-- **Problem & Context:** Regulatory compliance (GDPR, CCPA) requires verifiable evidence that user data deletion commands cascade completely across all cold backups and cache tiers.
-- **Key Contribution:** Architected an autonomous agent that generates cryptographic verification trails and monitors distributed persistence layers for residual data traces.
-- **Tech Stack:** `Python` `AI Agent Orchestration` `Compliance Verification`
-- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
 
 <br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="30" align="center" /> 04 // Certifications & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="30" align="center" /> 04 // Industrial Accreditations & Verified Credentials
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+MICROSOFT+AZ-900+%7C+AI-900+%7C+DP-600+CERTIFIED;%2F%2F+NUTANIX+NCP-MCI+6+%7C+NCP-EUC+6+%7C+NCA+6+CERTIFIED;%2F%2F+UNIVERSITY+OF+PENNSYLVANIA+PYTHON+ACCREDITED" alt="Certifications Typing" />
 
 Authentic industry accreditations verified through **Credly**, **Microsoft Learn**, and **Coursera**:
 
-| Credential ID | Certification Title | Issuing Body | Verification Link |
+| Credential ID | Official Accreditation Title | Issuing Body | Direct Verification Link |
 | :--- | :--- | :--- | :--- |
 | **AZ-900** | **Microsoft Certified: Azure Fundamentals** | Microsoft | [![Credly Verified](https://img.shields.io/badge/Credly-Verified-00FF66?style=flat-square&logo=credly&logoColor=050807&labelColor=0D1117)](https://www.credly.com/badges/fa072f2b-6cb1-410d-867f-b103b02a89f9/public_url) |
 | **AI-900** | **Microsoft Certified: Azure AI Fundamentals** | Microsoft | [![Credly Verified](https://img.shields.io/badge/Credly-Verified-00FF66?style=flat-square&logo=credly&logoColor=050807&labelColor=0D1117)](https://www.credly.com/badges/28fee6de-582e-48ac-8ad6-ca57f009ef39/public_url) |
@@ -376,7 +421,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 | **NCA 6 / NCP-MCA** | **Nutanix Certified Associate: Multicloud Automation 6** | Nutanix | [![Credly Verified](https://img.shields.io/badge/Credly-Verified-00FF66?style=flat-square&logo=credly&logoColor=050807&labelColor=0D1117)](https://www.credly.com/badges/a2039131-1ed7-493b-aa1c-e0c35acf8ea6/public_url) |
 | **PYTHON** | **Introduction to Python Programming** | University of Pennsylvania | [![Coursera Verified](https://img.shields.io/badge/Coursera-Verified-00FF66?style=flat-square&logo=coursera&logoColor=050807&labelColor=0D1117)](https://www.coursera.org/account/accomplishments/verify/YC9OSTN0A2IZ) |
 
-### 🎓 Academic Honors & Milestones
+### 🎓 Academic Honors & Computational Foundations
 - **Higher Secondary Education (12th Grade Science):** Graduated with **90% Distinction** (Physics, Chemistry, Mathematics, Computer Science) under Kerala Board of Higher Secondary Education.
 - **Secondary Technical Education (10th Grade):** Graduated with **Above 90% Honors** under Technical Education Department, Kerala.
 
@@ -384,7 +429,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 
 ---
 
-## 📊 05 // GitHub Statistics & Activity
+## 📊 05 // Telemetry, Commit Velocity & Code Analytics
 
 <div align="center">
   <table border="0">
@@ -403,7 +448,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 
 ---
 
-## 🔥 06 // Contribution Streak
+## 🔥 06 // Continuous Discipline & Streak Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tharundev-123&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&dates=E6EDF3" width="85%" alt="GitHub Streak Stats" />
@@ -413,7 +458,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 
 ---
 
-## 🐍 07 // Contribution Grid Snake
+## 🐍 07 // The Contribution Ecosystem
 
 <div align="center">
   <picture>
@@ -427,7 +472,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 
 ---
 
-## 📡 08 // Connect With Me
+## 📡 08 // Secure Transmission & Transmission Dock
 
 Whether discussing software engineering internships, AI/ML research collaborations, or enterprise cloud solutions, my communication channels are open:
 
