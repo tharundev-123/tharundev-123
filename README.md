@@ -72,7 +72,7 @@
 | :--- | :--- |
 | **Engineering Lead** | **THARUN DEV M C** |
 | **Academic Program** | B.Tech Computer Science & Engineering (AI & Machine Learning Specialization) |
-| **Academic Base** | **Chandigarh University**, Punjab / UP, India `[2025 – Present • Active Pursuit]` |
+| **Academic Base** | **Chandigarh University**, UP, India `[2025 – Present • Active Pursuit]` |
 | **Geographic Telemetry** | Kozhikode, Kerala, India `[IST / UTC+5:30]` |
 | **Core Architecture** | Python Systems • Microsoft Azure Cloud • RESTful APIs • ML Heuristics |
 | **Industrial Accreditations** | Microsoft Certified (AZ-900, AI-900, DP-600) • Nutanix Certified (NCP-MCI 6, NCP-EUC 6, NCA 6) |
