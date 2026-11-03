@@ -1,15 +1,17 @@
 <div align="center">
 
 <!-- ========================================================================
-     HERO BANNER (CAPSULE RENDER)
+     ANIMATED CYBER HEADER GIF (NAME & HUD TELEMETRY)
      ======================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,40:0d1117,100:00FF66&height=240&section=header&text=THARUN%20DEV%20M%20C&fontSize=42&fontAlign=50&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Python%20Developer&descFontSize=16&descAlign=50&descAlignY=62&fontColor=ffffff" width="100%" alt="Tharun Dev Hero Banner" />
+<a href="https://tharundev.xyz" target="_blank">
+  <img src="./assets/header_tharun_dev.gif" width="100%" alt="THARUN DEV M C // AI & ML ENGINEER" />
+</a>
 
 <!-- ========================================================================
      ANIMATED TYPING INTRODUCTION (README TYPING SVG)
      ======================================================================== -->
 <a href="https://tharundev.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=48&lines=%E2%96%B8+AI+%26+Machine+Learning+Engineer;%E2%96%B8+Building+Deterministic+Software+on+Probabilistic+Systems;%E2%96%B8+Microsoft+Azure+%26+Nutanix+Certified+Practitioner;%E2%96%B8+B.Tech+CSE+(AI+%26+ML)+%40+Chandigarh+University;%E2%96%B8+Designing+Resilient+Python+Pipelines" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=48&lines=%E2%96%B8+AI+%26+Machine+Learning+Engineer;%E2%96%B8+Building+Deterministic+Software+on+Probabilistic+Systems;%E2%96%B8+Microsoft+Azure+%26+Nutanix+Certified+Practitioner;%E2%96%B8+B.Tech+CSE+(AI+%26+ML)+%40+Chandigarh+University;%E2%96%B8+Engineering+Resilient+Python+Pipelines" alt="Typing Introduction" />
 </a>
 
 <br/>
@@ -32,8 +34,8 @@
   </a>
 </p>
 
-<!-- Subtle Tech Line Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+<!-- Animated Cyber Pulse Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Terminal Beam" />
 
 </div>
 
@@ -41,16 +43,27 @@
 
 ---
 
-## 📌 01 // About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" align="center" /> 01 // Architectural Profile & Principles
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+BUILDING+DETERMINISTIC+SOFTWARE+ON+PROBABILISTIC+SYSTEMS;%2F%2F+AI+%26+ML+SYSTEMS+ARCHITECT+%7C+CHANDIGARH+UNIVERSITY;%2F%2F+KOZHIKODE%2C+INDIA+%5BIST+%2F+UTC%2B5%3A30%5D" alt="About Typing" />
 
 > **"Building deterministic software on top of probabilistic systems."**  
 > *Engineering software at the nexus of mathematical machine learning models and deterministic production infrastructure.*
 
-I am an **Artificial Intelligence & Machine Learning Engineer** and Computer Science student pursuing my **B.Tech in Computer Science & Engineering (AI & ML)** at **Chandigarh University**. Native to Kozhikode, Kerala, India, my engineering methodology emphasizes disciplined software architecture over superficial demos.
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>I am an <b>Artificial Intelligence & Machine Learning Engineer</b> and Computer Science student pursuing my <b>B.Tech in Computer Science & Engineering (AI & ML)</b> at <b>Chandigarh University</b>, native to Kozhikode, Kerala, India.</p>
+      <p>My engineering methodology emphasizes disciplined software architecture over superficial demos. I build robust data pipelines in <b>Python</b>, explore cloud-native cognitive systems on <b>Microsoft Azure</b>, and deploy resilient multi-cloud infrastructure with <b>Nutanix</b>.</p>
+      <p><b>Core Mission:</b> To design high-reliability AI platforms and scalable backend infrastructure that extract structured signal from ambiguous real-world data, translating complex models into tangible engineering outcomes.</p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" alt="Developer Coding Animation" />
+    </td>
+  </tr>
+</table>
 
-My work centers around designing robust data pipelines in **Python**, architecting cloud-native cognitive systems on **Microsoft Azure**, and deploying resilient multi-cloud infrastructure with **Nutanix**. I believe that intelligence is an engineering problem—demanding mathematical rigor, reproducible data flows, and fault-tolerant distributed architectures.
-
-### 🔬 Engineering Dossier
+### 🔬 Technical Dossier
 
 | Metric / Attribute | Specification |
 | :--- | :--- |
@@ -67,7 +80,9 @@ My work centers around designing robust data pipelines in **Python**, architecti
 
 ---
 
-## 🛠️ 02 // Technical Skills & Architecture
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" align="center" /> 02 // Technical Skills & Architecture
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+CORE+STACK%3A+PYTHON+%7C+AZURE+%7C+REST+%7C+DETERMINISTIC+INFRA;%2F%2F+MULTICLOUD+INFRASTRUCTURE+%7C+NUTANIX+MCI+%26+EUC;%2F%2F+DATA+STRUCTURES+%26+MACHINE+LEARNING+HEURISTICS" alt="Skills Typing" />
 
 ```ascii
 [SYSTEM_ARCHITECTURE] ───► (PYTHON) ───► [AZURE COGNITIVE SERVICES] ───► (REPRODUCIBLE PRODUCTION)
@@ -76,6 +91,22 @@ My work centers around designing robust data pipelines in **Python**, architecti
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,azure,git,github,vscode,html,css,linux,bash,postman,markdown&perline=13&theme=dark" alt="Technical Stack Icons" />
 </div>
+
+<br/>
+
+### ⚡ Proficiency & Domain Mastery
+
+```ascii
+┌──────────────────────┬──────────────────────────────────────────┬────────┐
+│ DOMAIN               │ ARCHITECTURAL PROFICIENCY                │ STATUS │
+├──────────────────────┼──────────────────────────────────────────┼────────┤
+│ Python Architecture  │ [████████████████████████████████░░░░░░] │ 85%    │
+│ Microsoft Azure AI   │ [██████████████████████████████░░░░░░░░] │ 80%    │
+│ Multicloud (Nutanix) │ [██████████████████████████████████░░░░] │ 90%    │
+│ Algorithms & C++     │ [████████████████████████████░░░░░░░░░░] │ 75%    │
+│ RESTful Integrations │ [████████████████████████████████░░░░░░] │ 85%    │
+└──────────────────────┴──────────────────────────────────────────┴────────┘
+```
 
 <br/>
 
@@ -131,16 +162,35 @@ My work centers around designing robust data pipelines in **Python**, architecti
 
 ---
 
-## 🚀 03 // Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" /> 03 // Featured Projects
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+AZURE+DOCUMENT+INTELLIGENCE+UI+%5BLIVE+DEPLOYED%5D;%2F%2F+DIGITAL+HEALTHCARE+BMI+%26+DIET+PLANNER+%5BPYTHON%5D;%2F%2F+BRIGHTLOOP+ENTERPRISE+SUBSCRIPTION+BILLING" alt="Projects Typing" />
 
 ### 01/ [Azure Document Intelligence UI](https://github.com/tharundev-123/azure-doc-analyzer)
 > **Cognitive OCR & Structured Schema Extraction Pipeline**  
 > An end-to-end cloud interface orchestrating Microsoft Azure Cognitive Services to extract structured tabular schemas and key-value records from unstructured document assets.
 
+<p>
+  <a href="https://github.com/tharundev-123/azure-doc-analyzer">
+    <img src="https://img.shields.io/badge/STATUS-LIVE_DEPLOYED-00FF66?style=flat-square&logo=github&logoColor=050807&labelColor=0D1117" alt="Status" />
+  </a>
+  <a href="https://tharundev-123.github.io/azure-doc-analyzer/">
+    <img src="https://img.shields.io/badge/DEMO-LAUNCH_SYSTEM-00FF66?style=flat-square&logo=googlechrome&logoColor=050807&labelColor=0D1117" alt="Demo" />
+  </a>
+</p>
+
 - **Problem & Context:** Manual document auditing for invoices, receipts, and tax forms is labor-intensive and error-prone. Raw OCR tools frequently lose cell relationships and semantic entity pairings.
 - **Key Contribution:** Designed the API integration layer interfacing with Microsoft Azure Cognitive Document Intelligence REST endpoints. Implemented parsing logic in Python to organize extracted text bounding boxes, table rows, and key-value confidence scores for web presentation.
 - **Tech Stack:** `Microsoft Azure` `Document AI API` `Python REST` `GitHub Pages`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/azure-doc-analyzer) • [Launch Live System](https://tharundev-123.github.io/azure-doc-analyzer/)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/azure-doc-analyzer) • [Launch Live Demo](https://tharundev-123.github.io/azure-doc-analyzer/)
+
+<details>
+<summary><b>🔍 View Architectural Pipeline</b></summary>
+
+```ascii
+[PDF / Image Asset] ──► [Azure Document AI Engine] ──► [Key-Value & Table Parser] ──► [Structured UI Grid]
+```
+</details>
 
 ---
 
@@ -148,10 +198,24 @@ My work centers around designing robust data pipelines in **Python**, architecti
 > **Biometric Categorization & Dynamic Nutritional Prescription Engine**  
 > An intelligent healthcare computational tool combining biometric categorization algorithms with dynamic nutritional prescription synthesis (Project 76).
 
+<p>
+  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00FF66?style=flat-square&logo=python&logoColor=050807&labelColor=0D1117" alt="Status" />
+  </a>
+</p>
+
 - **Problem & Context:** Standard health calculators provide static BMI numbers without actionable algorithmic dietary frameworks tailored to individual metabolic goals.
 - **Key Contribution:** Engineered the core calculation logic in Python, implementing custom categorization algorithms and rule-based nutritional matrices that dynamically compute macronutrient distributions.
 - **Tech Stack:** `Python` `ML Heuristics` `HTML5/CSS3` `Data Analytics`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
+
+<details>
+<summary><b>🔍 View Biometric Heuristic Flow</b></summary>
+
+```ascii
+[Biometric Inputs] ──► [Metabolic Calculation Engine] ──► [Nutrient Ratio Matrix] ──► [Dynamic Diet Blueprint]
+```
+</details>
 
 ---
 
@@ -162,7 +226,7 @@ My work centers around designing robust data pipelines in **Python**, architecti
 - **Problem & Context:** SaaS businesses encounter billing leakages when subscription plans, custom quotes, discount structures, and ledger entries operate in isolated tools.
 - **Key Contribution:** Developed a responsive full-stack platform managing subscription plans, quote-to-invoice workflows, automated tax/discount calculations, and relational transaction persistence.
 - **Tech Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/brightloop-subscription-manager)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/brightloop-subscription-manager)
 
 ---
 
@@ -173,7 +237,7 @@ My work centers around designing robust data pipelines in **Python**, architecti
 - **Problem & Context:** Automated visual recognition pipelines require precise landmark localization, facial posture detection, and low-latency feature extraction.
 - **Key Contribution:** Implemented client-to-cloud integration with Azure Cognitive Services, parsing visual stream inputs and rendering bounding coordinates with attribute analytics.
 - **Tech Stack:** `Microsoft Azure` `Cognitive Services Face API` `Python` `Web UI`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/facevision-azure)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/facevision-azure)
 
 ---
 
@@ -184,7 +248,7 @@ My work centers around designing robust data pipelines in **Python**, architecti
 - **Problem & Context:** Latency in anticipating postprandial glucose surges poses immediate risks for diabetic patients requiring preemptive insulin adjustments.
 - **Key Contribution:** Engineered predictive models analyzing time-series glucose curves and nutritional inputs to identify metabolic spike indicators.
 - **Tech Stack:** `TypeScript` `Machine Learning Heuristics` `Predictive Analytics`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/GlucoTwin_AI)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/GlucoTwin_AI)
 
 ---
 
@@ -195,13 +259,15 @@ My work centers around designing robust data pipelines in **Python**, architecti
 - **Problem & Context:** Regulatory compliance (GDPR, CCPA) requires verifiable evidence that user data deletion commands cascade completely across all cold backups and cache tiers.
 - **Key Contribution:** Architected an autonomous agent that generates cryptographic verification trails and monitors distributed persistence layers for residual data traces.
 - **Tech Stack:** `Python` `AI Agent Orchestration` `Compliance Verification`
-- **Links:** [Inspect Source Code](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
+- **Actions:** [Inspect Source Code](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
 
 <br/>
 
 ---
 
-## 🏆 04 // Certifications & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="30" align="center" /> 04 // Certifications & Achievements
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00FF66&background=0D111700&center=false&vCenter=true&width=620&height=32&lines=%2F%2F+MICROSOFT+AZ-900+%7C+AI-900+%7C+DP-600+CERTIFIED;%2F%2F+NUTANIX+NCP-MCI+6+%7C+NCP-EUC+6+%7C+NCA+6+CERTIFIED;%2F%2F+UNIVERSITY+OF+PENNSYLVANIA+PYTHON+ACCREDITED" alt="Certifications Typing" />
 
 Authentic industry accreditations verified through **Credly**, **Microsoft Learn**, and **Coursera**:
 
@@ -229,10 +295,10 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=tharundev-123&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=E6EDF3&icon_color=00FF66&border_color=00FF66" width="100%" alt="Tharun Dev GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=tharundev-123&show_icons=true&bg_color=0D1117&title_color=00FF66&text_color=E6EDF3&icon_color=00FF66&border_color=00FF66" width="100%" alt="Tharun Dev GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=tharundev-123&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=E6EDF3&border_color=00FF66" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=tharundev-123&layout=compact&bg_color=0D1117&title_color=00FF66&text_color=E6EDF3&border_color=00FF66" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -245,7 +311,7 @@ Authentic industry accreditations verified through **Credly**, **Microsoft Learn
 ## 🔥 06 // Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharundev-123&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&dates=E6EDF3" width="85%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=tharundev-123&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&dates=E6EDF3" width="85%" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
