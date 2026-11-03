@@ -170,13 +170,26 @@
 > **Cognitive OCR & Structured Schema Extraction Pipeline**  
 > An end-to-end cloud interface orchestrating Microsoft Azure Cognitive Services to extract structured tabular schemas and key-value records from unstructured document assets.
 
-<p>
+<!-- Animated Interactive Project Showcase -->
+<div align="center">
+  <a href="https://tharundev-123.github.io/azure-doc-analyzer/" target="_blank">
+    <img src="./assets/project_azure_doc.gif" width="100%" alt="Azure Document Intelligence UI Demonstration" />
+  </a>
+</div>
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+azure-doc-ai+extract+--source+invoice.pdf+--format+json;%E2%96%B8+Scanning+Azure+Cognitive+endpoints...;%E2%96%B8+Extracted+14+Key-Value+Fields+%2B+2+Tables+%5B99.4%25%5D" alt="Azure Terminal" />
+</div>
+
+<p align="center">
   <a href="https://github.com/tharundev-123/azure-doc-analyzer">
     <img src="https://img.shields.io/badge/STATUS-LIVE_DEPLOYED-00FF66?style=flat-square&logo=github&logoColor=050807&labelColor=0D1117" alt="Status" />
   </a>
-  <a href="https://tharundev-123.github.io/azure-doc-analyzer/">
+  <a href="https://tharundev-123.github.io/azure-doc-analyzer/" target="_blank">
     <img src="https://img.shields.io/badge/DEMO-LAUNCH_SYSTEM-00FF66?style=flat-square&logo=googlechrome&logoColor=050807&labelColor=0D1117" alt="Demo" />
   </a>
+  <img src="https://img.shields.io/badge/ENGINE-AZURE_DOCUMENT_AI-00FF66?style=flat-square&logo=microsoftazure&logoColor=050807&labelColor=0D1117" alt="Azure AI" />
 </p>
 
 - **Problem & Context:** Manual document auditing for invoices, receipts, and tax forms is labor-intensive and error-prone. Raw OCR tools frequently lose cell relationships and semantic entity pairings.
@@ -192,16 +205,33 @@
 ```
 </details>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
 
 ### 02/ [Digital Healthcare BMI & Diet Planner](https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76)
 > **Biometric Categorization & Dynamic Nutritional Prescription Engine**  
 > An intelligent healthcare computational tool combining biometric categorization algorithms with dynamic nutritional prescription synthesis (Project 76).
 
-<p>
+<!-- Animated Interactive Project Showcase -->
+<div align="center">
+  <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76" target="_blank">
+    <img src="./assets/project_bmi_planner.gif" width="100%" alt="Digital Healthcare BMI & Diet Planner Demonstration" />
+  </a>
+</div>
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+python+bmi_planner.py+--height+180+--weight+74;%E2%96%B8+BMI%3A+22.84+%5BNormal%5D+%7C+Computing+Macronutrients...;%E2%96%B8+Synthesized+2450+kcal%3A+35%25+Protein%2C+45%25+Carbs" alt="BMI Terminal" />
+</div>
+
+<p align="center">
   <a href="https://github.com/tharundev-123/Nimbus_Project_THARUNDEVMC_76">
     <img src="https://img.shields.io/badge/STATUS-OPEN_SOURCE-00FF66?style=flat-square&logo=python&logoColor=050807&labelColor=0D1117" alt="Status" />
   </a>
+  <img src="https://img.shields.io/badge/MODULE-HEURISTIC_MATRIX-00FF66?style=flat-square&logo=dependabot&logoColor=050807&labelColor=0D1117" alt="Heuristics" />
 </p>
 
 - **Problem & Context:** Standard health calculators provide static BMI numbers without actionable algorithmic dietary frameworks tailored to individual metabolic goals.
@@ -217,44 +247,109 @@
 ```
 </details>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
 
 ### 03/ [BrightLoop Subscription Manager](https://github.com/tharundev-123/brightloop-subscription-manager)
 > **Full-Stack Enterprise Subscription Billing & Finance Dashboard**  
 > Comprehensive subscription management platform featuring tier modeling, quotation lifecycles, automated invoice generation, and financial accounting views.
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+brightloop-billing+--generate-invoice+--client+acme_corp;%E2%96%B8+Reconciling+subscription+tier+discounts+%2B+tax+ledger...;%E2%96%B8+Invoice+%23INV-2026-892+rendered+and+dispatched+successfully" alt="BrightLoop Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/brightloop-subscription-manager">
+    <img src="https://img.shields.io/badge/ARCH-FULL_STACK-00FF66?style=flat-square&logo=react&logoColor=050807&labelColor=0D1117" alt="Stack" />
+  </a>
+  <img src="https://img.shields.io/badge/DATABASE-POSTGRESQL-00FF66?style=flat-square&logo=postgresql&logoColor=050807&labelColor=0D1117" alt="Database" />
+  <img src="https://img.shields.io/badge/LANGUAGE-TYPESCRIPT-00FF66?style=flat-square&logo=typescript&logoColor=050807&labelColor=0D1117" alt="TypeScript" />
+</p>
 
 - **Problem & Context:** SaaS businesses encounter billing leakages when subscription plans, custom quotes, discount structures, and ledger entries operate in isolated tools.
 - **Key Contribution:** Developed a responsive full-stack platform managing subscription plans, quote-to-invoice workflows, automated tax/discount calculations, and relational transaction persistence.
 - **Tech Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
 - **Actions:** [Inspect Source Code](https://github.com/tharundev-123/brightloop-subscription-manager)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
 
 ### 04/ [FaceVision Azure](https://github.com/tharundev-123/facevision-azure)
 > **Cognitive Biometric Face Detection & Attribute Analysis**  
 > Human face detection and visual attribute inspection system utilizing Microsoft Azure Cognitive Face APIs.
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+facevision-stream+--device+%2Fdev%2Fvideo0+--engine+azure-face;%E2%96%B8+Facial+Landmarks+Detected%3A+82+Points+%5BLatency%3A+38ms%5D;%E2%96%B8+Emotion+Probability+Vector%3A+Confidence+98.7%25" alt="FaceVision Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/facevision-azure">
+    <img src="https://img.shields.io/badge/ENGINE-AZURE_COGNITIVE-00FF66?style=flat-square&logo=microsoftazure&logoColor=050807&labelColor=0D1117" alt="Azure Face" />
+  </a>
+  <img src="https://img.shields.io/badge/MODE-REALTIME_STREAM-00FF66?style=flat-square&logo=opencv&logoColor=050807&labelColor=0D1117" alt="OpenCV" />
+</p>
 
 - **Problem & Context:** Automated visual recognition pipelines require precise landmark localization, facial posture detection, and low-latency feature extraction.
 - **Key Contribution:** Implemented client-to-cloud integration with Azure Cognitive Services, parsing visual stream inputs and rendering bounding coordinates with attribute analytics.
 - **Tech Stack:** `Microsoft Azure` `Cognitive Services Face API` `Python` `Web UI`
 - **Actions:** [Inspect Source Code](https://github.com/tharundev-123/facevision-azure)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
 
 ### 05/ [GlucoTwin AI](https://github.com/tharundev-123/GlucoTwin_AI)
 > **Predictive Glycemic Spike Forecasting Prototype**  
 > Machine learning driven health intelligence engine predicting glucose fluctuations using historical patient records and simulated continuous glucose monitor telemetry.
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+glucotwin-predict+--patient-telemetry+timeseries.csv;%E2%96%B8+Evaluating+continuous+glucose+monitoring+(CGM)+curves...;%E2%96%B8+Early+Spike+Alert%3A+%2B45+mg%2FdL+anticipated+in+T%2B20min" alt="GlucoTwin Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/GlucoTwin_AI">
+    <img src="https://img.shields.io/badge/DOMAIN-PREDICTIVE_ML-00FF66?style=flat-square&logo=tensorflow&logoColor=050807&labelColor=0D1117" alt="Predictive" />
+  </a>
+  <img src="https://img.shields.io/badge/DATA-TIMESERIES_CGM-00FF66?style=flat-square&logo=pandas&logoColor=050807&labelColor=0D1117" alt="Timeseries" />
+</p>
 
 - **Problem & Context:** Latency in anticipating postprandial glucose surges poses immediate risks for diabetic patients requiring preemptive insulin adjustments.
 - **Key Contribution:** Engineered predictive models analyzing time-series glucose curves and nutritional inputs to identify metabolic spike indicators.
 - **Tech Stack:** `TypeScript` `Machine Learning Heuristics` `Predictive Analytics`
 - **Actions:** [Inspect Source Code](https://github.com/tharundev-123/GlucoTwin_AI)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
 
 ### 06/ [Ghost Data Deletion Audit Agent](https://github.com/tharundev-123/ghost-data-deletion-audit-agent)
 > **AI-Powered Autonomous Deletion & Right-to-be-Forgotten Compliance Auditor**  
 > Autonomous compliance audit agent built for HackerRank Orchestrate that proves whether user personal data is truly purged across databases, logs, backups, and replication streams.
+
+<!-- Animated CLI Execution Stream -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=30&lines=%24+audit-agent+verify-purge+--user-id+usr_98124;%E2%96%B8+Auditing+PostgreSQL+shards%2C+Kafka+logs%2C+S3+backups...;%E2%96%B8+Proof+of+Eradication+Generated+%5BGDPR+%2F+CCPA+Compliant%5D" alt="Audit Agent Terminal" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/tharundev-123/ghost-data-deletion-audit-agent">
+    <img src="https://img.shields.io/badge/AGENT-AUTONOMOUS_AUDIT-00FF66?style=flat-square&logo=substack&logoColor=050807&labelColor=0D1117" alt="Audit" />
+  </a>
+  <img src="https://img.shields.io/badge/COMPLIANCE-GDPR_CCPA-00FF66?style=flat-square&logo=securityscorecard&logoColor=050807&labelColor=0D1117" alt="Compliance" />
+</p>
 
 - **Problem & Context:** Regulatory compliance (GDPR, CCPA) requires verifiable evidence that user data deletion commands cascade completely across all cold backups and cache tiers.
 - **Key Contribution:** Architected an autonomous agent that generates cryptographic verification trails and monitors distributed persistence layers for residual data traces.
